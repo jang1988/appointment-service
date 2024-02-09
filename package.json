@@ -1,0 +1,18 @@
+{
+  "name": "appointment-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "moment": "^2.30.1",
+    "mongoose": "^8.1.1",
+    "nodemon": "^2.0.15"
+  }
+}
